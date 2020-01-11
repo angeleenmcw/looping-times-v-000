@@ -1,4 +1,4 @@
-def using_times
+def using_times cvbgt
 	7.times do
 	  puts "Wingardium Leviosa"
 end
@@ -14,4 +14,4 @@ l'';/'
 ;
 
 
-7m 
+7m landd/on
